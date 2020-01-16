@@ -24,3 +24,10 @@ hs_err_pid*
 
 # metadata
 .metadata/
+
+
+*.classpath
+*.project
+*.settings
+*.gitignore
+*.recommenders
