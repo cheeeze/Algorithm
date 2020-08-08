@@ -1,6 +1,5 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.PriorityQueue;
 
 /*
  * BOJ #1655 가운데를 말해요
